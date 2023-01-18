@@ -4,7 +4,7 @@ This repository contains the Acceptance Criteria needed to complete this challen
 
 ## Description
 
-Generate a random password to your liking, using 4 different characters for the ultimate password!<br>
+Generate a random password to your liking, using 4 different character selections, for the ultimate password!<br>
 
 ## Built with
 <ul>
