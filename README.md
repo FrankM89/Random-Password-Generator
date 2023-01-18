@@ -21,7 +21,7 @@ Generate a random password to your liking, using 4 different characters for the 
       
 ## Website
   <ul>
-      <li> <a href="/"></a></li>
+      <li> <a href="https://frankm89.github.io/Random-Password-Generator//">Random Password Generator</a></li>
   </ul>
   
 ## Screenshot
